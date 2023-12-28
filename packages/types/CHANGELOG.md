@@ -1,5 +1,17 @@
 # @medusajs/types
 
+## 1.11.10
+
+### Patch Changes
+
+- [#5943](https://github.com/medusajs/medusa/pull/5943) [`6d1e3cc02`](https://github.com/medusajs/medusa/commit/6d1e3cc0285ef157fd6486060e8b32c00c01aa80) Thanks [@pKorsholm](https://github.com/pKorsholm)! - feat(modules-sdk, types): add initial authentication module configuration
+
+- [#5920](https://github.com/medusajs/medusa/pull/5920) [`3f6d79961`](https://github.com/medusajs/medusa/commit/3f6d79961dec1c5eb8950f8eacd94a5d87a4acde) Thanks [@riqwan](https://github.com/riqwan)! - feat(types,modules-sdk): basic module setup for promotions
+
+- [#5768](https://github.com/medusajs/medusa/pull/5768) [`c1c470e6b`](https://github.com/medusajs/medusa/commit/c1c470e6b8646c5f0b4bca56a8e785f6c34e1fef) Thanks [@pKorsholm](https://github.com/pKorsholm)! - feat(types, pricing): separate internal pricing module types from types module
+
+- [#5945](https://github.com/medusajs/medusa/pull/5945) [`890e76a5c`](https://github.com/medusajs/medusa/commit/890e76a5c53039576c42ca4d46af6f6977cdebd1) Thanks [@riqwan](https://github.com/riqwan)! - feat(types,utils): add promotions create with application method
+
 ## 1.11.9
 
 ### Patch Changes

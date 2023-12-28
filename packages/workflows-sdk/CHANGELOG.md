@@ -1,5 +1,20 @@
 # @medusajs/workflows-sdk
 
+## 0.1.1
+
+### Patch Changes
+
+- [#5728](https://github.com/medusajs/medusa/pull/5728) [`9cc787cac`](https://github.com/medusajs/medusa/commit/9cc787cac4bf1c5d8edf1c4b548bb3205100e822) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(workflows-sdk): Configurable retries upon step creation
+
+- [#5775](https://github.com/medusajs/medusa/pull/5775) [`8402f4697`](https://github.com/medusajs/medusa/commit/8402f46970c007bab9e0f1f6ae653d955650d503) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(workflows-sdk): Allow a step to not define an expected input
+
+- [#5953](https://github.com/medusajs/medusa/pull/5953) [`a0dd18c12`](https://github.com/medusajs/medusa/commit/a0dd18c12ac5ab6280366d93d7b47cdb3036914b) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(workflows-sdk): Allow primitive values to be passed as well as WorkflowDataProperties
+
+- Updated dependencies [[`6d1e3cc02`](https://github.com/medusajs/medusa/commit/6d1e3cc0285ef157fd6486060e8b32c00c01aa80), [`45996d58a`](https://github.com/medusajs/medusa/commit/45996d58a2665d72335faad11bea958f8da74195), [`9cc787cac`](https://github.com/medusajs/medusa/commit/9cc787cac4bf1c5d8edf1c4b548bb3205100e822), [`3f6d79961`](https://github.com/medusajs/medusa/commit/3f6d79961dec1c5eb8950f8eacd94a5d87a4acde), [`c41f3002f`](https://github.com/medusajs/medusa/commit/c41f3002f3118b1f195c5c822fe0f400091d115b), [`890e76a5c`](https://github.com/medusajs/medusa/commit/890e76a5c53039576c42ca4d46af6f6977cdebd1), [`76332ca6c`](https://github.com/medusajs/medusa/commit/76332ca6c153a786acc07d3f06ff45c3b9346fd3)]:
+  - @medusajs/modules-sdk@1.12.6
+  - @medusajs/utils@1.11.3
+  - @medusajs/orchestration@0.5.2
+
 ## 0.1.0
 
 ### Minor Changes

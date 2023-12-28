@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.1.39
+
+### Patch Changes
+
+- Updated dependencies [[`45996d58a`](https://github.com/medusajs/medusa/commit/45996d58a2665d72335faad11bea958f8da74195)]:
+  - medusa-interfaces@1.3.8
+
 ## 1.1.38
 
 ### Patch Changes

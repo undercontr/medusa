@@ -1,5 +1,11 @@
 # @medusajs/admin-ui
 
+## 2.1.11
+
+### Patch Changes
+
+- [#5822](https://github.com/medusajs/medusa/pull/5822) [`7ecea3448`](https://github.com/medusajs/medusa/commit/7ecea34487972bc05aae46918d5caebce607594b) Thanks [@hexrw](https://github.com/hexrw)! - feat(admin-ui): Add Czech translation
+
 ## 2.1.10
 
 ### Patch Changes
